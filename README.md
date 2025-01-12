@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ahmed Sameh
 
-<!--
-**ahmedsameh1600/ahmedsameh1600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Delivering cutting-edge network security and system administration solutions while empowering IT professionals with hands-on training, real-world expertise, and the tools to excel in safeguarding and optimizing modern IT infrastructures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Expertise
+
+### Technical Skills:
+- **Network Architecture & Design**: Expertise in planning scalable and secure networks.
+- **Network Security**: Proficient in configuring, implementing, and maintaining firewalls and UTMs, particularly FortiGate and PaloAlto.
+- **Email Security**: Skilled in deploying and managing Fortimail for antispam protection.
+- **Mentorship & Training**: Experience in training IT professionals.
+
+### Tools & Technologies:
+- FortiGate
+- PaloAlto
+- Fortimail
+- Linux
+- Windows Server
+- VPNs
+- Firewalls
+
+## Professional Experience
+
+### Network Security Engineer
+- Designed and implemented secure network architectures for enterprise clients.
+- Configured and maintained firewalls and UTMs to ensure network security.
+- Provided training and mentorship to junior IT professionals.
+
+## Courses & Certifications
+- **Certified Network Security Specialist** (CNSS)
+- **Fortinet Network Security Expert** (NSE)
+- **PaloAlto Networks Certified Network Security Engineer** (PCNSE)
+
+## Education
+- **Bachelor's Degree in Computer Science**
+  - Cairo University, Cairo, Egypt (2015-2019)
+  - Graduation Project Grade: Excellent
+
+## Let's Connect
+- **Email**: [ahmedsameh1600@gmail.com](mailto:ahmedsameh1600@gmail.com)
+- **LinkedIn**: [Ahmed Sameh Sobhy](https://www.linkedin.com/in/ahmed-sameh)
