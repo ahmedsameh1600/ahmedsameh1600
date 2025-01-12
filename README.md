@@ -31,12 +31,7 @@ Delivering cutting-edge network security and system administration solutions whi
 ## Courses & Certifications
 - **Certified Network Security Specialist** (CNSS)
 - **Fortinet Network Security Expert** (NSE)
-- **PaloAlto Networks Certified Network Security Engineer** (PCNSE)
 
-## Education
-- **Bachelor's Degree in Computer Science**
-  - Cairo University, Cairo, Egypt (2015-2019)
-  - Graduation Project Grade: Excellent
 
 ## Let's Connect
 - **Email**: [ahmedsameh1600@gmail.com](mailto:ahmedsameh1600@gmail.com)
