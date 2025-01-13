@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4d9f1bb9-75c9-4855-9402-67fee8792d93)# Hi, I'm Ahmed Sameh
 
 ## About Me
 
