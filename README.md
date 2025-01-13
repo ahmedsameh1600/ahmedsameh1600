@@ -40,11 +40,11 @@ Delivering cutting-edge network security and system administration solutions whi
   
 ## Training
 ### NTRA EGCERT Cybersecurity Advanced Workshop
-- Master Incident Response Protocols**
-- Develop Forensic Investigation Skills**
-- Enhance Penetration Testing Abilities**
-- Improve Malware Detection and Analysis**
-- Strengthen Overall Cybersecurity Posture**
+- Master Incident Response Protocols
+- Develop Forensic Investigation Skills
+- Enhance Penetration Testing Abilities
+- Improve Malware Detection and Analysis
+- Strengthen Overall Cybersecurity Posture
   
 ## Certifications
 - **NSE 4 Network Security Professional September 2023.** 
