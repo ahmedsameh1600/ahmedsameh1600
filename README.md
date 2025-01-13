@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Sameh
+![image](https://github.com/user-attachments/assets/4d9f1bb9-75c9-4855-9402-67fee8792d93)# Hi, I'm Ahmed Sameh
 
 ## About Me
 
@@ -45,6 +45,15 @@ Delivering cutting-edge network security and system administration solutions whi
 - Enhance Penetration Testing Abilities
 - Improve Malware Detection and Analysis
 - Strengthen Overall Cybersecurity Posture
+
+## Projects
+- Implemented and managed virtualization technologies.
+- Upgraded Fortigate, Fortimail, and F5 LTM to latest versions.
+- Migrated DNS and mail services to Military Armed Forces DC.
+- Renewed GoDaddy certificates and configured TLS protocols.
+- Upgraded Veritas Backup Exec and Exchange 2019.
+
+
   
 ## Certifications
 - **NSE 4 Network Security Professional September 2023.** 
