@@ -20,6 +20,7 @@ Delivering cutting-edge network security and system administration solutions whi
 - Windows Server
 - VPNs
 - Firewalls
+- Exchange
 
 ## Professional Experience
 
@@ -27,12 +28,27 @@ Delivering cutting-edge network security and system administration solutions whi
 - Designed and implemented secure network architectures for enterprise clients.
 - Configured and maintained firewalls and UTMs to ensure network security.
 - Provided training and mentorship to junior IT professionals.
+- Zero-Day Threats and Firewall Management: Manage firewalls and implement real-time updates to defend against zero-day vulnerabilities, ensuring ongoing network security.
 
-## Courses & Certifications
-- **Certified Network Security Specialist** (CNSS)
-- **Fortinet Network Security Expert** (NSE)
+### Systems Engineer
+- Deploy and Manage Microsoft Servers: Oversee the deployment and administration of Microsoft servers, ensuring high availability and security of enterprise systems.
+- Configure and Maintain Active Directory: Optimize and maintain Active Directory services to ensure secure and efficient access control and resource management.
+- Implement and Monitor System Updates: Ensure timely implementation of patches and updates across Microsoft systems, minimizing vulnerabilities and downtime.
+  
+### IT Instructor
+-  Delivering courses in CCNA R&S, MCSA, MCSE, CCNA Security, CCNP Security Core, CEH, NSE4, NSE5, and  IBM Qradar.
+  
+## Certifications
+- **NSE 4 Network Security Professional September 2023.** 
+- **NSE 3 Network Security Associate September 2023.** 
+- **AWS Certified Cloud Practitioner CLF-C01 May 2023.** 
+- **CCNP Security CORE (SCOR) December 2022.** 
+- **Microsoft Azure Fundamentals AZ-900 May 2022.** 
+- **Cisco Certificate Network Associate Routing & Switching (CCNA R&S) March 2019.** 
+- **Cisco Certificate Network Associate Security Acad.** 
+-  **Cisco Certificate Network Associate Cyber Ops Acad.**
 
 
 ## Let's Connect
 - **Email**: [ahmedsameh1600@gmail.com](mailto:ahmedsameh1600@gmail.com)
-- **LinkedIn**: [Ahmed Sameh Sobhy](https://www.linkedin.com/in/ahmed-sameh)
+- **LinkedIn**: [Ahmed Sameh Sobhy](https://www.linkedin.com/in/ahmed-sameh-sobhy/)
