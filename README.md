@@ -39,7 +39,7 @@ Delivering cutting-edge network security and system administration solutions whi
 -  Delivering courses in CCNA R&S, MCSA, MCSE, CCNA Security, CCNP Security Core, CEH, NSE4, NSE5, and  IBM Qradar.
   
 ## Training
-### 8 Aug 2021 – 15 Aug 2021 NTRA EGCERT Cybersecurity Advanced Workshop
+### NTRA EGCERT Cybersecurity Advanced Workshop
 - Master Incident Response Protocols**
 - Develop Forensic Investigation Skills**
 - Enhance Penetration Testing Abilities**
