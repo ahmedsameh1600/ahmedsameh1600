@@ -64,4 +64,4 @@ Delivering cutting-edge network security and system administration solutions whi
 
 ## Let's Connect
 - **Email**: [ahmedsameh1600@gmail.com](mailto:ahmedsameh1600@gmail.com)
-- **LinkedIn**: [Ahmed Sameh Sobhy](https://www.linkedin.com/in/ahmed-sameh-sobhy/)
+- **LinkedIn**: [Ahmed Sameh](https://www.linkedin.com/in/ahmed-sameh-sobhy/)
