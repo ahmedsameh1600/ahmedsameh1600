@@ -13,12 +13,9 @@ Delivering cutting-edge network security and system administration solutions whi
 
 ### Tools & Technologies:
 - FortiGate
-- PaloAlto
 - Fortimail
-- Linux
 - Windows Server
 - VPNs
-- Firewalls
 - Exchange
 
 ## Professional Experience
