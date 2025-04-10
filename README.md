@@ -15,8 +15,8 @@ Delivering cutting-edge network security and system administration solutions whi
 - FortiGate
 - Fortimail
 - Windows Server
-- VPNs
 - Exchange
+- DNS
 
 ## Professional Experience
 
